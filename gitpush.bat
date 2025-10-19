@@ -3,7 +3,7 @@ cd /inetpub/wwwroot/w/oilcity
 
 
 git add .
-git commit -m "from inDesign 2025-10-19 15:35" --no-edit
+git commit -m "from inDesign 2025-10-19 20:31" --no-edit
 git push --force --set-upstream origin main
 
 rem wait for one minute to allow git hub to get its act together
